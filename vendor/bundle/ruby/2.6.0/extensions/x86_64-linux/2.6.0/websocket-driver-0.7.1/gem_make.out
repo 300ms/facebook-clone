@@ -1,0 +1,15 @@
+current directory: /home/h4n/Desktop/facebook-clone/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+/usr/local/rvm/rubies/ruby-2.6.5/bin/ruby -I /usr/local/rvm/rubies/ruby-2.6.5/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200222-29789-doi5xp.rb extconf.rb
+creating Makefile
+
+current directory: /home/h4n/Desktop/facebook-clone/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/h4n/Desktop/facebook-clone/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/h4n/Desktop/facebook-clone/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20200222-29789-1em4b9d
